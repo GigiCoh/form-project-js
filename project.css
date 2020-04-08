@@ -1,0 +1,171 @@
+nav{
+	display: flex;
+	justify-content: space-around;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	height: 50px;
+	align-items: center;
+}
+
+body{
+	margin:0;
+}
+
+.box1{
+	margin-top: 10px;
+	background-color: lightgrey;
+	width:70%;
+	text-align: center;
+	padding:20px;
+	margin-bottom: 10px;
+
+}
+
+.explain{
+	line-height: 40px;
+	font-size: 22px;
+	font-family: 'ZCOOL XiaoWei', serif;
+}
+
+.header{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+img{
+	width:70%;
+	height: 60%;
+}
+
+.detail{
+	font-size: 20px;
+	margin-bottom: 10px;
+	font-family: 'Antic Didone', serif;
+	font-weight: bold;
+}
+
+.box2 .name{
+	font-size: 25px;
+	background-color:darkred;
+	padding: 10px;
+	margin:10px;
+	border-radius: 50%;
+	width:200px;
+	text-align: center;
+	font-family: 'Ma Shan Zheng', cursive;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	text-decoration: ;
+
+}
+
+.box2{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: column;
+	background-color: lightgrey;
+	width:70%;
+	padding: 20px;
+	margin-bottom: 10px;
+}
+
+.exercise{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.box{
+	background-color: lightgrey;
+	width:70%;
+	text-align: center;
+	padding:20px;
+	margin-bottom: 10px;
+}
+
+.title{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	height: 250px;
+	text-align: center;
+
+}
+
+footer div{
+	font-style: italic;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-family: 'Liu Jian Mao Cao', cursive;
+
+}
+
+.about-img{
+	width:50%;
+	height: 50%;
+
+}
+
+.box3{
+	background-color: lightgrey;
+	width:70%;
+	text-align: center;
+	padding:20px;
+	margin-bottom: 10px;
+}
+
+.about-title{
+	font-size: 35px;
+	font-family: 'Ma Shan Zheng', cursive;
+	margin-bottom: 10px;
+
+}
+
+.left{
+	text-align: left;
+}
+
+.about-subtitle{
+	font-size: 20px;
+	color: darkblue;
+	font-family: 'Comic Neue', cursive;
+	margin-bottom: 10px;
+}
+
+.about-explain{
+font-family: 'ZCOOL XiaoWei', serif;
+margin-bottom: 10px;
+}
+
+.exercise-instruction{
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+
+.exercise-ques, .exercise-selection{
+	margin-bottom: 5px;
+
+}
+
+#answer, #answer2, #answer3, #answer4, #answer5{
+	color: red;
+	margin-bottom: 4px;
+}
+
+span{
+	padding-left: 15px;
+}
